@@ -14,6 +14,7 @@ This game uses the DE1-SoC computer with an ARM A9 processor. The environment is
 * Change “Language” to C, then load the file. Click Compile and Load.
 * On the right hand bar labelled Devices, find the VGA pixel buffer. Pop this display out onto a new window using the small arrow beside the name and change the zoom level to 1.0, resizing your window as needed for the best experience.
 * Find the PS/2 Keyboard I/O bar (with IRQ 79) and click on the entry box labelled “Type here”. Now your keyboard is active; make sure this “Type here” entry is blinking to ensure your keyboard is active during game play.
+* **for instructions with photos to guide you, please check out the document: https://docs.google.com/document/d/1j5JgRGrCkXP1X0oFIfTbT4Of50EjckmSvOE5L2DJ_ec/edit?usp=sharing**
 
 # Gameplay
 * To move the student, tap the left/right/up/down arrows once, and the student will move in the corresponding direction. To stop the student, tap the space key once. Refrain from pressing down keys for too long as it will cause an overflow and stop the game (welcome to the beta version).
